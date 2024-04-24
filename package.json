@@ -1,0 +1,15 @@
+{
+  "name": "apple_product_placement",
+  "version": "1.0.0",
+  "description": "Final project for CSCI4707 analyzing Apple's product placement over the years in movies and TV shows, using MySQL queries.",
+  "main": "start-apple-database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connell Hagen, Siraj Ben Amer",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^5.0.1",
+    "mysql2": "^3.9.7"
+  }
+}
